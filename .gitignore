@@ -1,0 +1,4 @@
+# se ignora la carpeta bin
+bin
+
+# *.html con este comando se omiten todos los archivos de tipo html 
